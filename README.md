@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Parthak
 
-<!--
-**parthakk07/parthakk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Passionate about Machine Learning and AI research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️Tech Stack
+- Python
+- Linux
+- Git & GitHub
+- AI Tools & APIs
+- Prompt Engineering
+- Basic Machine Learning
+
+## ⚡ Currently
+- Learning Machine Learning
+- Building Python projects
+- Exploring AI models
+- Participating in hackathons
