@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Parthak
+## Hi there  I'm Parthak
 
 ---
 
 Passionate about Machine Learning and AI research
 
-## ⚙️Tech Stack
+## Tech Stack
 - Python
 - Linux
 - Git & GitHub
@@ -12,7 +12,7 @@ Passionate about Machine Learning and AI research
 - Prompt Engineering
 - Basic Machine Learning
 
-## ⚡ Currently
+##  Currently
 - Learning Machine Learning
 - Building Python projects
 - Exploring AI models
